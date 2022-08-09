@@ -10,7 +10,7 @@ Implementation of k-means algorithm, using spark and python.
 
 **Main parts and functions:**
 
-1. read_csv: this functions reads the file and returns the following objects:
+1. **read_csv:** this functions reads the file and returns the following objects:
 points - list of lists, each internal list represtns a points with normalized coordinates. 
 pointsrdd - RDD object of points
 labels_true - a list containing the true labels of the clusters for each point
