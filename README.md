@@ -1,5 +1,5 @@
 # K-means-Implementation-using-Spark
-Implementation of k-means algorithm, using spark and python.
+Implementation of k-means algorithm, using spark and python, map&reduce.
 
 
 
